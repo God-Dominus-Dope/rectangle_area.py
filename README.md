@@ -21,6 +21,7 @@ Menghidupkan atau mematikan LED berdasarkan status deteksi gerakan.
 Kirim Data ke Ubidots:
 
 Mengirim data ke server Ubidots setiap 5 detik setelah pengukuran.
+
 Penjelasan Kode 2
 Fungsi Utama:
 
@@ -37,6 +38,7 @@ Route API:
 
 Route utama (/) memberikan pesan status.
 Route /api/sensor_data untuk mengambil data sensor terbaru dari MongoDB dan mengembalikannya dalam format JSON.
+
 Penjelasan Kode 3
 Fungsi Utama:
 
